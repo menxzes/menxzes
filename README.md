@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Me chamo Guilherme Menezes, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Engenhatia de Software na UPE. Sou apaixonado por tecnologia desde pequeno, principalmente nas áreas de produção científica e de desenvolvimento de sistemas e jogos.
+Me chamo Guilherme Menezes, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Engenharia de Software na UPE. Sou apaixonado por tecnologia desde pequeno, principalmente nas áreas de produção científica e de desenvolvimento de sistemas e jogos.
 
 <p align="left">
     <a href="https://github.com/menxzes?tab=repositories&sort=stargazers">
