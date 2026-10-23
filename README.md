@@ -4,13 +4,8 @@
     alt="MENZES — Software, Systems & Design"
     width="100%"
   />
-
-  <p>
-    <em>
-      Aprendendo como sistemas funcionam.
-      Construindo para entender.
-    </em>
-  </p>
+  <p><strong>SOFTWARE ENGINEERING STUDENT</strong></p>
+  <p><em>Aprendendo como sistemas funcionam. Construindo para entender.</em></p>
 </div>
 
 ---
@@ -34,7 +29,7 @@ Também gosto de investigar ferramentas, sistemas e ideias que conectam tecnolog
 
 ## 03 / TOOLBOX
 
-**Linguagens**  
+**Linguagens em estudo**  
 <img src="https://img.shields.io/badge/Python-242424?style=flat-square&logo=python&logoColor=EAE7DF" alt="Python" />
 <img src="https://img.shields.io/badge/Go-242424?style=flat-square&logo=go&logoColor=EAE7DF" alt="Go" />
 <img src="https://img.shields.io/badge/Java-242424?style=flat-square&logo=openjdk&logoColor=EAE7DF" alt="Java" />
@@ -48,21 +43,48 @@ Também gosto de investigar ferramentas, sistemas e ideias que conectam tecnolog
 
 Gosto de projetos que me permitem sair da teoria, experimentar decisões técnicas e documentar o que aprendi.
 
-<!-- Adicione aqui projetos que representem bem seu trabalho. Exemplo:
+<!--
+PROJECT CARD TEMPLATE
 
-### [Nome do projeto](https://github.com/SEU_USUARIO/SEU_REPOSITORIO)
-Uma descrição curta do problema, da solução e do que você aprendeu.
+Quando houver um projeto para destacar, copie o bloco abaixo para fora deste comentário,
+substitua os campos e adicione o card à tabela. Cada coluna representa um projeto.
 
-`Python` `FastAPI` `PostgreSQL`
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <strong>
+          <a href="https://github.com/menxzes/NOME-DO-REPOSITORIO">NOME DO PROJETO ↗</a>
+        </strong><br />
+        <sub>Uma frase explicando o problema e a solução.</sub><br /><br />
+        <sub>PYTHON · FASTAPI · POSTGRESQL</sub>
+      </td>
+      <td width="50%" valign="top">
+        <strong>
+          <a href="https://github.com/menxzes/OUTRO-REPOSITORIO">OUTRO PROJETO ↗</a>
+        </strong><br />
+        <sub>Uma frase explicando o problema e a solução.</sub><br /><br />
+        <sub>GO · CLI · TESTING</sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
+Para destacar apenas um projeto, remova a segunda célula (<td>) ou use uma tabela com uma única coluna.
 -->
 
 _Projetos em destaque serão adicionados aqui à medida que forem documentados._
 
-## 05 / CONTACT
+## 05 / FIELD NOTES
+
+Um espaço para registrar aprendizados, experimentos e projetos em evolução.
+
+**LEARNING / BUILDING / IMPROVING.**
+
+## 06 / CONTACT
 
 <p>
-  <a href="https://www.linkedin.com/in/glhrm-mnzs?utm_source=share_via&utm_content=profile&utm_medium=member_android">LINKEDIN</a>
+  <a href="https://www.linkedin.com/in/glhrm-mnzs/">LINKEDIN</a>
   &nbsp; / &nbsp;
   <a href="mailto:SEU_EMAIL">EMAIL</a>
 </p>
