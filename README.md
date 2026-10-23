@@ -1,15 +1,15 @@
 <div align="center">
-  <p><sub>FIELD NOTES &nbsp; / &nbsp; SOFTWARE & SYSTEMS &nbsp; / &nbsp; ISSUE Nº 001</sub></p>
-  <h1>MENZES</h1>
-  <p><strong>SOFTWARE ENGINEERING STUDENT</strong></p>
-  <p><em>Aprendendo como sistemas funcionam. Construindo para entender.</em></p>
+  <img
+    src="assests/menzes-banner.png"
+    alt="MENZES — Software, Systems & Design"
+    width="100%"
+  />
+
   <p>
-    <img src="https://img.shields.io/badge/PYTHON-242424?style=flat-square&logo=python&logoColor=EAE7DF" alt="Python" />
-    <img src="https://img.shields.io/badge/GO-242424?style=flat-square&logo=go&logoColor=EAE7DF" alt="Go" />
-    <img src="https://img.shields.io/badge/JAVA-242424?style=flat-square&logo=openjdk&logoColor=EAE7DF" alt="Java" />
-    <img src="https://img.shields.io/badge/LINUX-242424?style=flat-square&logo=linux&logoColor=EAE7DF" alt="Linux" />
-    <img src="https://img.shields.io/badge/DOCKER-242424?style=flat-square&logo=docker&logoColor=EAE7DF" alt="Docker" />
-    <img src="https://img.shields.io/badge/GIT-242424?style=flat-square&logo=git&logoColor=EAE7DF" alt="Git" />
+    <em>
+      Aprendendo como sistemas funcionam.
+      Construindo para entender.
+    </em>
   </p>
 </div>
 
