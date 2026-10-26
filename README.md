@@ -73,6 +73,20 @@ substitua os campos e adicione o card à tabela. Cada coluna representa um proje
 Para destacar apenas um projeto, remova a segunda célula (<td>) ou use uma tabela com uma única coluna.
 -->
 
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <strong>
+          <a href="https://github.com/menxzes/lanche-monitoria">SISTEMA DE LANCHONETE ↗</a>
+        </strong><br />
+        <sub>Feito para apresentar na monitoria de Programação I.</sub><br /><br />
+        <sub>PYTHON · CLI · MONITORIA</sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 _Projetos em destaque serão adicionados aqui à medida que forem documentados._
 
 ## 05 / FIELD NOTES
